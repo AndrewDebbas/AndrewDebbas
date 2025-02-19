@@ -30,8 +30,24 @@ Hi, I'm Andrew, I'm learning how to use GitHub
 
 > The journey of 1000 miles begins with a first step
 
+---
+
+## Exercises 
+
+This is where I will use `Git Hub` to write code
+
+Backtick Example:
+```
+1) This
+2) Is
+3) The example
+```
+
 
 <!--
+
+
+
 **AndrewDebbas/AndrewDebbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
